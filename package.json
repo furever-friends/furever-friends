@@ -12,7 +12,13 @@
     "react-scripts": "0.9.x",
     "typescript": "3.4.5"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.12.4"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
